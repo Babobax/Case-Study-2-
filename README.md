@@ -2,7 +2,9 @@
 
 Dataset can be found here - https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico 
                           - https://www.kaggle.com/datasets/meirnizri/covid19-dataset
-                          
+
+For this case study I was using Postgresql and Tableau.
+
 "case_study_2_processing.sql" contains more info about the dataset itself and operations done to clean and process it.
 "case_study_2_analysis.sql" is filled with queries performed to analyse the data. 
 
