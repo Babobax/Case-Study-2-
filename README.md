@@ -11,4 +11,4 @@ For this case study I was using Postgresql and Tableau.
 Both files are documented with comments as to guide anyone who's willing to check/use these files for any purpose. 
 
 Dashboard was made in Tableau Public and since it's uploaded as a .png file, it's non-interactive. 
-For interactive version please visit my Tableau profile (it's the "Covid cs 2" one) - https://public.tableau.com/app/profile/matt.l2298
+Dashboard's interactive version can be found here - https://public.tableau.com/app/profile/matt.l2298/viz/Covidcs2/Dashboard1
