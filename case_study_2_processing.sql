@@ -271,3 +271,5 @@ WHERE classification_final IN ('4', '5', '6', '7')
 
 CREATE TABLE valid_covid_19_data AS
 SELECT * FROM covid_19_data
+
+-- Data is fairly clean and prepared now for querying. The 'case_study_2_analysis.sql' is a direct continuation of the case study.
