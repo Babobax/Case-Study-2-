@@ -9,8 +9,6 @@ Dataset can be found here - https://datos.gob.mx/busca/dataset/informacion-refer
 For this case study I was using PostgreSQL, Python (sqlalchemy and psycopg2 packages to connect with PostgreSQL via Jupyter Notebooks) and Tableau.
 
 ## Contents:
-- covid_data.csv - unmodified dataset
-- cleaned_covid_data.csv - cleaned dataset 
 - case_study_2_processing.sql - contains more info about the dataset itself and operations done to clean and process it.
 - case_study_2_analysis.sql - exploratory analysis in form of a report in Jupyter Notebooks (data visualizations are on Tableau Public - via link below). 
 
