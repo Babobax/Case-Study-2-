@@ -10,7 +10,7 @@ For this case study I was using PostgreSQL, Python (sqlalchemy and psycopg2 pack
 
 ## Contents:
 - case_study_2_processing.sql - contains more info about the dataset itself and operations done to clean and process it.
-- case_study_2_analysis.sql - exploratory analysis in form of a report in Jupyter Notebooks (data visualizations are on Tableau Public - via link below). 
+- case_study_2_analysis.ipynb - exploratory analysis in form of a report in Jupyter Notebooks (data visualizations are on Tableau Public - via link below). 
 
 Both files are documented with comments and descriptions to guide anyone through the data cleaning and analysis.
 
